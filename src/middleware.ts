@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server";
-import type { NextRequest } from "next/server";
 import dbSetup from "@/models/server/dbSetup";
 import storageSetup from "@/models/server/storageSetup";
 
